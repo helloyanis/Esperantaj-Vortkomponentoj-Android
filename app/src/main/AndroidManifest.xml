@@ -23,7 +23,7 @@
     package="dev.helloyanis.vortkom.esperanto">
 
     
-        <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+<!--        <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/> Unused for now-->
     
 
     
